@@ -1,0 +1,6 @@
+[submodule "fade"]
+	path = fade
+	url = https://github.com/eket/fade.git
+[submodule "both"]
+	path = both
+	url = https://github.com/eket/both
